@@ -1,7 +1,7 @@
 #Top Songs Analysis
 
 #importing dataset top10s and copying it to test data
-data = top10s
+data <- read.csv("C:/Users/rmadh/OneDrive/Desktop/Lecture_Notes/MVA/Top-Songs-Analysis-master/top10s.csv",header = TRUE)
 View(data)
 
 #Data Cleaning
