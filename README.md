@@ -38,9 +38,3 @@
 | acous         |	numeric   | Acousticness - A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 
 | spch          |	numeric   | Speechiness - Speechiness detects the presence of spoken words in a track. 
 | pop           | numeric   | Popularity- The higher the value the more popular the song is.
-
-
-### Contributors : 
-**Apurva Sarode<br>
-Renuka Madhugiri<br>
-Amit Phadke<br>**
